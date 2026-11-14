@@ -1,1 +1,3 @@
-👋 Hola, aquest és el github oficial de **Clevier**. Per més informació aneu a [clevier.ai](https://clevier.ai) o contacteu a [hola@clevier.ai](mailto:hola@clevier.ai)
+* Web: [clevier.ai](https://clevier.ai)
+* Contact: [hola@clevier.ai](mailto:hola@clevier.ai)
+* LinkedIn: [linkedin.com/company/clevier](https://www.linkedin.com/company/clevier/)
